@@ -1,0 +1,49 @@
+G:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\bin\Debug\Cold Tower.exe.config
+G:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\bin\Debug\Cold Tower.exe
+G:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\bin\Debug\Cold Tower.pdb
+G:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold Tower.csprojResolveAssemblyReference.cache
+G:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.frm_TitleScreen.resources
+G:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.Properties.Resources.resources
+G:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold Tower.csproj.GenerateResource.Cache
+G:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold Tower.exe
+G:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold Tower.pdb
+G:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.Level1.resources
+E:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\bin\Debug\Cold Tower.exe.config
+E:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold Tower.exe
+E:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold Tower.pdb
+E:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\bin\Debug\Cold Tower.exe
+E:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\bin\Debug\Cold Tower.pdb
+E:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold Tower.csprojResolveAssemblyReference.cache
+E:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.frm_TitleScreen.resources
+E:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.Level1.resources
+E:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.Properties.Resources.resources
+E:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold Tower.csproj.GenerateResource.Cache
+G:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.Level2.resources
+G:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.Boss.resources
+E:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.Boss.resources
+E:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.Level2.resources
+G:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.GameOver.resources
+G:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.EndGame.resources
+E:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.EndGame.resources
+E:\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.GameOver.resources
+C:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\bin\Debug\Cold Tower.exe.config
+C:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold Tower.exe
+C:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold Tower.pdb
+C:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold Tower.csprojResolveAssemblyReference.cache
+C:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.Boss.resources
+C:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.EndGame.resources
+C:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.frm_TitleScreen.resources
+C:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.GameOver.resources
+C:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.Level1.resources
+C:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.Level2.resources
+C:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold Tower.csproj.GenerateResource.Cache
+F:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold Tower.csprojAssemblyReference.cache
+F:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.Boss.resources
+F:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.EndGame.resources
+F:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.frm_TitleScreen.resources
+F:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.GameOver.resources
+F:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.Level1.resources
+F:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold_Tower.Level2.resources
+F:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold Tower.csproj.GenerateResource.cache
+F:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold Tower.exe
+F:\Users\Cei\Documents\Higher National Diploma (completed)\HND YR2\Dot's Unit\Game Development\Assignment game\Cold Tower\Cold Tower\obj\Debug\Cold Tower.pdb
